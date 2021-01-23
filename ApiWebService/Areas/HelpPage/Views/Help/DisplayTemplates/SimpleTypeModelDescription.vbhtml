@@ -1,0 +1,3 @@
+@Imports ApiWebService.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
